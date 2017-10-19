@@ -2,28 +2,28 @@ name: 自我介绍
 class: center, middle  
 background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmdpXbeavRWpOOgGP2WfBUfT5T3iZtGZy0h6Zxg!/b/dBwBAAAAAAAA&bo=wAN*AgAAAAAFAJ0!&rf=viewer_4)  
   
-# <font color="White">自我介绍</font>
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### <font color="White">周扬帆 (pkuzyf@pku.edu.cn)</font>  
+#### 周扬帆 (pkuzyf@pku.edu.cn)  
 
-<font color="White">主页: https://github.com/zhouyangf</font>
+主页: https://github.com/zhouyangf
 
 ---
 
 ## <font color="Orangered">Catalogue</font>
 
-### 1. 基本信息
+### <font color="blue">1. 基本信息</font>
 
-### 2. 兴趣爱好
+### <font color="Red">2. 兴趣爱好</font>
 
 #### &nbsp; &nbsp; &nbsp; 2.1 读书
 #### &nbsp; &nbsp; &nbsp; 2.2 音乐
 #### &nbsp; &nbsp; &nbsp; 2.3 运动
 
-### 3. 有的没的orz
+### <font color="MediumBlue">3. 有的没的orz</font>
 
 ---
 
@@ -31,15 +31,15 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 &nbsp; 
 &nbsp; 
 &nbsp; &nbsp; &nbsp; 我是来自元培学院16级的周扬帆。经济方向。  
-&nbsp; 
-&nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
-&nbsp; 
-&nbsp; 
-&nbsp; &nbsp; &nbsp; 是一个阳光积极而又很“丧”的人！    
-&nbsp; 
-&nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; 是一个阳光积极而又很“丧”的人！  
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
 
 ---
 
