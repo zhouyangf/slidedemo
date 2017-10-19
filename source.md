@@ -2,18 +2,18 @@ name: 自我介绍
 class: center, middle  
 background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmdpXbeavRWpOOgGP2WfBUfT5T3iZtGZy0h6Zxg!/b/dBwBAAAAAAAA&bo=wAN*AgAAAAAFAJ0!&rf=viewer_4)  
   
-# 自我介绍
+# <font color="White">自我介绍</font>
 
 &nbsp;
 &nbsp;
 
-#### 周扬帆 (pkuzyf@pku.edu.cn)  
+#### <font color="White">周扬帆 (pkuzyf@pku.edu.cn)</font>  
 
-主页: https://github.com/zhouyangf
+<font color="White">主页: https://github.com/zhouyangf</font>
 
 ---
 
-## <font color="orangered">Catalogue</font>
+## <font color="Orangered">Catalogue</font>
 
 ### 1. 基本信息
 
@@ -28,17 +28,24 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 ---
 
 ## <font color="blue">1. 基本信息</font>
-
+&nbsp; 
+&nbsp; 
 &nbsp; &nbsp; &nbsp; 我是来自元培学院16级的周扬帆。经济方向。  
-&nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
-&nbsp; &nbsp; &nbsp; 是一个阳光积极而又很“丧”的人！  :smiley:  
-&nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
+&nbsp; 
+&nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
+&nbsp; 
+&nbsp; 
+&nbsp; &nbsp; &nbsp; 是一个阳光积极而又很“丧”的人！    
+&nbsp; 
+&nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
 
 ---
 
 ## <font color="VioletRed">2.1 读书</font>
 
-> “一日不读书,尘生其中；两日不读书,言语乏味；三日不读书,面目可憎。”
+> #### “一日不读书,尘生其中；两日不读书,言语乏味；三日不读书,面目可憎。”
 
 &nbsp; &nbsp; 读书可以算是我的一大志趣啦！ :stuck_out_tongue_closed_eyes:
 - 学术类书籍：大概就是历史类、哲学类和社会学类吧……男神系列：韦伯、福柯、布尔迪厄、~~猛大、康叔~~……orz这大概也算是不务正业了吧……
@@ -73,9 +80,9 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 
 类似于座右铭之类的？  
   
-> 又怎么可以不勇敢？ 
+> - 又怎么可以不勇敢？ 
   
-> 现在咱们俩来拼一拼吧！  
+> - 现在咱们俩来拼一拼吧！  
 
 上面一句话出自一本书的译后记，译者是我非常钦佩的一位学者。  
 下面这句话出自《高老头》的最后：  
