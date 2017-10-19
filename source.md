@@ -61,7 +61,7 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 
 > #### “一日不读书,尘生其中；两日不读书,言语乏味；三日不读书,面目可憎。”
 
-&nbsp; &nbsp; 读书可以算是我的一大志趣啦！ :stuck_out_tongue_closed_eyes:
+&nbsp; &nbsp; 读书可以算是我的一大志趣啦！
 - 学术类书籍：大概就是历史类、哲学类和社会学类吧……男神系列：韦伯、福柯、布尔迪厄、~~猛大、康叔~~……orz这大概也算是不务正业了吧……
 - 侦探小说：大爱本格推理！~~（本来是喜欢畅销君东野老师的）~~阿加莎婆婆、埃勒里·奎因、01馆系列都很喜欢！
 - 科幻小说：好，我必须承认我是被《三体》圈粉的！但后来就喜欢看美国科幻了233……
@@ -75,7 +75,7 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 ## <font color="OliveDrab">2.2 音乐</font>
 
 爱听流行（谁不爱听啊喂）、摇滚（不接受重金属和后摇……）民谣以及古风……  
-My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:  
+My **Eason 窦唯（窦仙儿） 河图**   
 <img src="http://r.photo.store.qq.com/psb?/V13KHU2G4NqEwA/E6vHAHB3g7qvUNZD3Ww7gSCNay*scFr8MJmDb5e9xIg!/r/dPMAAAAAAAAA" width=300 style="margin: 0px 0px">&nbsp; <img src="http://a2.qpic.cn/psb?/V13KHU2G4NqEwA/BBPw.TGH2oV*.DDBC*1vNiMbFXKaHcjF8pwLSR6yXeU!/b/dD8BAAAAAAAA&bo=kAGQAQAAAAARBzA!&rf=viewer_4" width=300 style="margin: 0px 0px"><img src="http://a1.qpic.cn/psb?/V13KHU2G4NqEwA/9jAKFUWDUOuSJ0*hjZZMWxzA.wMus5nRSXWWmDw3dVE!/b/dPMAAAAAAAAA&bo=zAE0AQAAAAARB8g!&rf=viewer_4" width=300 style="margin: 0px 0px">
 
 更多[陈奕迅](http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E9%99%88%E5%A5%95%E8%BF%85) [窦唯](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407656892_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E7%AA%A6%E5%94%AF) [河图](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407697290_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E6%B2%B3%E5%9B%BE)
