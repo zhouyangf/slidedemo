@@ -13,17 +13,13 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 
 ---
 
-## Catalogue
+## <font color="OrangeRed">Catalogue</font>
 
-### <font color="blue">1. 基本信息</font>
+### <font color="Blue">1. 基本信息</font>
 
-### <font color="Red">2. 兴趣爱好</font>
+### 2. 兴趣爱好
 
-#### &nbsp; &nbsp; &nbsp; 2.1 读书
-#### &nbsp; &nbsp; &nbsp; 2.2 音乐
-#### &nbsp; &nbsp; &nbsp; 2.3 运动
-
-### <font color="MediumBlue">3. 有的没的orz</font>
+### 3. 有的没的orz
 
 ---
 
@@ -40,6 +36,20 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
+
+---
+
+## <font color="OrangeRed">Catalogue</font>
+
+### 1. 基本信息
+
+### <font color="Blue">2. 兴趣爱好</font>
+
+#### &nbsp; &nbsp; &nbsp; 2.1 读书
+#### &nbsp; &nbsp; &nbsp; 2.2 音乐
+#### &nbsp; &nbsp; &nbsp; 2.3 运动
+
+### 3. 有的没的orz
 
 ---
 
@@ -79,6 +89,16 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 感觉纯粹是拉来凑数的……orz
+
+---
+
+## <font color="OrangeRed">Catalogue</font>
+
+### 1. 基本信息
+
+### 2. 兴趣爱好
+
+### <font color="Blue">3. 有的没的orz</font>
 
 ---
 
