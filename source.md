@@ -13,7 +13,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 
 ---
 
-## <font color="Orangered">Catalogue</font>
+## Catalogue
 
 ### <font color="blue">1. 基本信息</font>
 
@@ -28,9 +28,9 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 ---
 
 ## <font color="blue">1. 基本信息</font>
-&nbsp; 
-&nbsp; 
-&nbsp; &nbsp; &nbsp; 我是来自元培学院16级的周扬帆。经济方向。  
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; 我是来自元培学院16级的周扬帆。经济方向。  
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
@@ -72,6 +72,8 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 热爱羽毛球~~（毕竟全民运动）~~，但是打得不好hhh  
+<br>
+<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="http://xhimg.sports.cn/Image/allimg/160815/11-160Q510501IO.jpg" width=300 style="margin: 0px 0px">
 <br>
 <br>
