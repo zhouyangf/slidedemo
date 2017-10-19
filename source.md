@@ -1,6 +1,6 @@
 name: 自我介绍  
 class: center, middle  
-background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmdpXbeavRWpOOgGP2WfBUfT5T3iZtGZy0h6Zxg!/b/dBwBAAAAAAAA&bo=wAN*AgAAAAAFAJ0!&rf=viewer_4)  
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)  
   
 # 自我介绍
 
@@ -12,6 +12,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 主页: https://github.com/zhouyangf
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="OrangeRed">Catalogue</font>
 
@@ -22,6 +23,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 ### 3. 有的没的orz
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="blue">1. 基本信息</font>
 <br>
@@ -38,6 +40,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="OrangeRed">Catalogue</font>
 
@@ -52,6 +55,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
 ### 3. 有的没的orz
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="VioletRed">2.1 读书</font>
 
@@ -66,6 +70,7 @@ background-image: url(http://b284.photo.store.qq.com/psb?/V13KHU2G3Umlmw/GjQIXmd
   - 诗词：主要还是喜欢唐诗……宋诗大多觉得一般……但是，宋词！！！柳永！贺铸！姜夔！emmm可能还是觉得词比较适合婉约一点……
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="OliveDrab">2.2 音乐</font>
 
@@ -76,6 +81,7 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 更多[陈奕迅](http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E9%99%88%E5%A5%95%E8%BF%85) [窦唯](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407656892_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E7%AA%A6%E5%94%AF) [河图](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407697290_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E6%B2%B3%E5%9B%BE)
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="Orange">2.3 运动</font>
 
@@ -91,6 +97,7 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 感觉纯粹是拉来凑数的……orz
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="OrangeRed">Catalogue</font>
 
@@ -101,14 +108,15 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 ### <font color="Blue">3. 有的没的orz</font>
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="MediumBlue">3. 有的没的orz</font>
 
 类似于座右铭之类的？  
   
-> - 又怎么可以不勇敢？ 
+- 又怎么可以不勇敢？ 
   
-> - 现在咱们俩来拼一拼吧！  
+- 现在咱们俩来拼一拼吧！  
 
 上面一句话出自一本书的译后记，译者是我非常钦佩的一位学者。  
 下面这句话出自《高老头》的最后：  
@@ -118,6 +126,7 @@ My **Eason 窦唯（窦仙儿） 河图**  :heart_eyes::heart_eyes::heart_eyes:
 我希望以后也能这样“气概非凡地”对生活说一句：“现在咱们俩来拼一拼吧！”
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## 后记
 
@@ -131,6 +140,7 @@ int main()
 ```
 
 ---
+background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 class: center, middle
 
