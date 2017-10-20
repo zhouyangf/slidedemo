@@ -23,7 +23,7 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 ### 3. 有的没的orz
 
 ---
-class: center, middle
+class: center, middle  
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="blue">1. 基本信息</font>
@@ -82,7 +82,7 @@ My **Eason 窦唯（窦仙儿） 河图**
 更多[陈奕迅](http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E9%99%88%E5%A5%95%E8%BF%85) [窦唯](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407656892_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E7%AA%A6%E5%94%AF) [河图](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407697290_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E6%B2%B3%E5%9B%BE)
 
 ---
-class: center, middle
+class: center, middle  
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="Orange">2.3 运动</font>
