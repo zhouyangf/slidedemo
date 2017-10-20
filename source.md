@@ -29,11 +29,11 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 ## <font color="blue">1. 基本信息</font>  
 
 ### 我是来自元培学院16级的周扬帆。经济方向。  
-<br>
+&nbsp; 
 ### 性别男。来自天津~~（哏儿都）~~。  
-<br>
+&nbsp; 
 ### 是一个阳光积极而又很“丧”的人！
-<br>
+&nbsp; 
 ### ~~胡言乱语不知道在说什么~~（逃
 
 ---
@@ -84,9 +84,9 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 ## <font color="Orange">2.3 运动</font>
 
 ### 热爱羽毛球~~（毕竟全民运动）~~，但是打得不好hhh  
-<br>
+&nbsp; 
 <img src="http://xhimg.sports.cn/Image/allimg/160815/11-160Q510501IO.jpg" width=300 style="margin: 0px 0px">
-<br>
+&nbsp; 
 ### 感觉纯粹是拉来凑数的……orz
 
 ---
