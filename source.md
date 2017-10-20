@@ -23,21 +23,22 @@ background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975
 ### 3. 有的没的orz
 
 ---
+class: center, middle
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="blue">1. 基本信息</font>
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; 我是来自元培学院16级的周扬帆。经济方向。  
+### 我是来自元培学院16级的周扬帆。经济方向。  
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 性别男。来自天津~~（哏儿都）~~。  
+### 性别男。来自天津~~（哏儿都）~~。  
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; 是一个阳光积极而又很“丧”的人！  
+### 是一个阳光积极而又很“丧”的人！  
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~~胡言乱语不知道在说什么~~（逃
+### ~~胡言乱语不知道在说什么~~（逃
 
 ---
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
@@ -81,20 +82,21 @@ My **Eason 窦唯（窦仙儿） 河图**
 更多[陈奕迅](http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E9%99%88%E5%A5%95%E8%BF%85) [窦唯](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407656892_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E7%AA%A6%E5%94%AF) [河图](http://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1508407697290_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E6%B2%B3%E5%9B%BE)
 
 ---
+class: center, middle
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
 
 ## <font color="Orange">2.3 运动</font>
 
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 热爱羽毛球~~（毕竟全民运动）~~，但是打得不好hhh  
+### 热爱羽毛球~~（毕竟全民运动）~~，但是打得不好hhh  
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="http://xhimg.sports.cn/Image/allimg/160815/11-160Q510501IO.jpg" width=300 style="margin: 0px 0px">
+<img src="http://xhimg.sports.cn/Image/allimg/160815/11-160Q510501IO.jpg" width=300 style="margin: 0px 0px">
 <br>
 <br>
 <br>
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 感觉纯粹是拉来凑数的……orz
+### 感觉纯粹是拉来凑数的……orz
 
 ---
 background-image: url(http://img2.niutuku.com/desk/130126/41/41-niutuku.com-2975.jpg)
